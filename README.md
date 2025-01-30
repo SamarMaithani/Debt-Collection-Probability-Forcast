@@ -35,6 +35,11 @@ The data Presented to us consists of 400000+ observations and 21 features + 1 ta
 - NumAddresses: Number of addresses associated with the customer.
 - IsStatBarred: Indicates if the debt is statute-barred.
 
+# Screenshot of the Data
+Unfortunately the dataset is too big to upload into Github, so here's a glimps of how it looks like:
+![image](https://github.com/user-attachments/assets/8b34aba9-d46b-45e4-ba3f-dc5d418919c4)
+
+
 # Classification Models Result
 ![image](https://github.com/user-attachments/assets/a1e2a9ba-dc36-4a1f-8454-3e93092a31fc)
 
